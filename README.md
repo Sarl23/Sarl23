@@ -9,7 +9,7 @@ console.info("Vue - React - React Native - HTML5 - CSS3");
 console.info("Figma - Adobe Photoshop - Adobe Illustrator");
 console.info("JavaScript - NodeJS - Python");
 console.groupEnd();
-console.info("🌱 I’m currently learning UX and UI /Django ");
+console.info("🌱 I’m currently learning UX and UI - Django ");
 console.groupEnd();
 
 console.warn("Controlling complexity is the essence of programming..");
