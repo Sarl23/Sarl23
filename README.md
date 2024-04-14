@@ -16,6 +16,7 @@ console.warn("Controlling complexity is the essence of programming..");
 console.warn("Brian Kernigan");
 ~~~
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarl23)  
-
-![Profile views](https://gpvc.arturio.dev/Sarl23)  
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarl23&theme=algolia" alt="sarl23"  /></p>
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarl23&label=Profile%20views&color=0e75b6&style=plastic" alt="sarl23" /></p>
