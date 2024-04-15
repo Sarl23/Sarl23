@@ -19,4 +19,4 @@ console.warn("Brian Kernigan");
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarl23&theme=algolia" alt="sarl23"  /></p>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarl23&label=Profile%20views&color=0e75b6&style=plastic" alt="sarl23" /></p>
+<p align="start"> <img src="https://komarev.com/ghpvc/?username=sarl23&label=Profile%20views&color=0e75b6&style=plastic" alt="sarl23" /></p>
